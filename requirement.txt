@@ -1,0 +1,10 @@
+flask
+pycryptodome
+authlib
+python-jose
+pysqlcipher3
+flask-limiter
+python-dotenv
+speechrecognition
+pyttsx3
+openai
