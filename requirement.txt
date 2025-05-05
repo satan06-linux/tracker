@@ -8,3 +8,5 @@ python-dotenv
 speechrecognition
 pyttsx3
 openai
+pyttsx3
+takecommand
