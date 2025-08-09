@@ -4,7 +4,7 @@ import json
 import threading
 import webbrowser
 import pyttsx3
-import pyautogui
+import pyautogui 
 import speech_recognition as sr
 from vosk import Model, KaldiRecognizer
 import pyaudio
